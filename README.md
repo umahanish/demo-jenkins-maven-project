@@ -16,11 +16,11 @@ Building Jenkins Pipelines on Amazon Linux 2 AWS EC2 Instance
 
   - a Jenkinsfile configured for an automated build on our repo
 
-- Create a public project repository `jenkins-maven-project` on your GitHub account.
+- Create a public project repository `demo-jenkins-maven-project` on your GitHub account.
 
 - Clone the `jenkins-maven-project` repository on local computer.
 
-- Copy the files from my repository(https://github.com/gulec2000/jenkins-maven-project/tree/main/hello-app)  [hello-app](./hello-app)  and paste under the `jenkins-maven-project` your  GitHub repo folder.
+-Copy the files from my repository(https://github.com/gulec2000/jenkins-maven-project/tree/main/hello-app)  [hello-app](./hello-app)  and paste under the `jenkins-maven-project` your  GitHub repo folder.
 
 - Go to the Jenkins dashboard and click on `New Item` to create a pipeline.
 
