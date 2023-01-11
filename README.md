@@ -16,7 +16,7 @@ Building Jenkins Pipelines on Amazon Linux 2 AWS EC2 Instance
 
   - a Jenkinsfile configured for an automated build on our repo
 
-- Create a public project repository `demo-jenkins-maven-project` on your GitHub account.
+- Create a public project repository `demo-jenkins-maven-project` on umapathy GitHub account.
 
 - Clone the `jenkins-maven-project` repository on local computer.
 
