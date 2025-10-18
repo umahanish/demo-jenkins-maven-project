@@ -178,3 +178,5 @@ git push
 - Observe the new built triggered with `git push` command on the Jenkins project page.
 
 - Explain the role of the docker image of maven, `Jenkinsfile` and GitHub Webhook in this automation.
+
+- New test
